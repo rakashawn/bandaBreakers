@@ -1,3 +1,4 @@
+# http://www.instructables.com/id/Raspberry-Pi-Tumblr-GIF-Photo-Booth/
 #import modules
 import RPi.GPIO as GPIO
 from time import sleep
