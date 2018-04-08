@@ -5,3 +5,4 @@ The projects that I am modeling this off of are as follows;
 https://makezine.com/projects/raspberry-pi-photo-booth/
 https://makezine.com/2017/10/27/becky-sterns-retro-raspberry-pi-tumblr-gif-camera/
 http://www.instructables.com/id/Raspberry-Pi-Tumblr-GIF-Photo-Booth/
+https://learn.adafruit.com/selfieblock/introduction
