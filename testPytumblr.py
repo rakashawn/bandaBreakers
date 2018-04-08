@@ -1,3 +1,4 @@
+# http://www.instructables.com/id/Raspberry-Pi-Tumblr-GIF-Photo-Booth/
 import pytumblr
 
 # AuthenticateS via OAuth, copy from https://api.tumblr.com/console/calls/user/info
