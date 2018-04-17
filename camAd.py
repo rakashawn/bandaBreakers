@@ -5,7 +5,7 @@ from picamera import PiCamera
 from gpiozero import Button
 from time import sleep
 import time, os
-button = Button(4, pull_up=False,)
+button = Button(14, pull_up=False,)
 while True:
     button.wait_for_press()
     name = (time.strftime("%y-%b-%d_%H:%M:%S"))
